@@ -1,2 +1,2 @@
-# ParticleSimulator
-ParticleSimulator
+# Physics simulator
+Physics simulator
